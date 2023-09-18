@@ -1,0 +1,7 @@
+C:\Users\manis\source\repos\lab4que5\lab4 question10\bin\Debug\lab4 question10.exe.config
+C:\Users\manis\source\repos\lab4que5\lab4 question10\bin\Debug\lab4 question10.exe
+C:\Users\manis\source\repos\lab4que5\lab4 question10\bin\Debug\lab4 question10.pdb
+C:\Users\manis\source\repos\lab4que5\lab4 question10\obj\Debug\lab4 question10.csproj.AssemblyReference.cache
+C:\Users\manis\source\repos\lab4que5\lab4 question10\obj\Debug\lab4 question10.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\lab4que5\lab4 question10\obj\Debug\lab4 question10.exe
+C:\Users\manis\source\repos\lab4que5\lab4 question10\obj\Debug\lab4 question10.pdb

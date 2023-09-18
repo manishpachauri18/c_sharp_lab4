@@ -1,0 +1,7 @@
+C:\Users\manis\source\repos\lab4que5\lab4ques9\bin\Debug\lab4ques9.exe.config
+C:\Users\manis\source\repos\lab4que5\lab4ques9\bin\Debug\lab4ques9.exe
+C:\Users\manis\source\repos\lab4que5\lab4ques9\bin\Debug\lab4ques9.pdb
+C:\Users\manis\source\repos\lab4que5\lab4ques9\obj\Debug\lab4ques9.csproj.AssemblyReference.cache
+C:\Users\manis\source\repos\lab4que5\lab4ques9\obj\Debug\lab4ques9.csproj.CoreCompileInputs.cache
+C:\Users\manis\source\repos\lab4que5\lab4ques9\obj\Debug\lab4ques9.exe
+C:\Users\manis\source\repos\lab4que5\lab4ques9\obj\Debug\lab4ques9.pdb
